@@ -1,0 +1,7 @@
+C:\Users\mrt_b\source\repos\Asal Sayı Bulma App\Asal Sayı Bulma App\bin\Debug\Asal Sayı Bulma App.exe.config
+C:\Users\mrt_b\source\repos\Asal Sayı Bulma App\Asal Sayı Bulma App\bin\Debug\Asal Sayı Bulma App.exe
+C:\Users\mrt_b\source\repos\Asal Sayı Bulma App\Asal Sayı Bulma App\bin\Debug\Asal Sayı Bulma App.pdb
+C:\Users\mrt_b\source\repos\Asal Sayı Bulma App\Asal Sayı Bulma App\obj\Debug\Asal Sayı Bulma App.csprojAssemblyReference.cache
+C:\Users\mrt_b\source\repos\Asal Sayı Bulma App\Asal Sayı Bulma App\obj\Debug\Asal Sayı Bulma App.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Asal Sayı Bulma App\Asal Sayı Bulma App\obj\Debug\Asal Sayı Bulma App.exe
+C:\Users\mrt_b\source\repos\Asal Sayı Bulma App\Asal Sayı Bulma App\obj\Debug\Asal Sayı Bulma App.pdb
